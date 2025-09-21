@@ -38,6 +38,10 @@ The dashboards highlight the following metrics:
 
 ## Excel Credit and Debit Dashboard <img width="1866" height="972" alt="image" src="https://github.com/user-attachments/assets/4ffe0dd0-d317-4761-8149-bfd54b157704" />
 
+## Power BI Dashboard - <a href= "">Click Here</a>
+
+## Tableau Dashboard - <a href= "">Click Here</a>
+
 ## Project Insights
 
 - Total credit and debit transactions each exceeded ₹127M, with a credit-to-debit ratio of ~1.00, indicating balanced inflows and outflows.
