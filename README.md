@@ -38,9 +38,11 @@ The dashboards highlight the following metrics:
 
 ## Excel Credit and Debit Dashboard <img width="1866" height="972" alt="image" src="https://github.com/user-attachments/assets/4ffe0dd0-d317-4761-8149-bfd54b157704" />
 
-## Power BI Dashboard - <a href= "https://github.com/rohan-784/Bank_Analysis/blob/main/Power%20BI%20Dashboard%20Photos.pdf">Click Here</a>
+## Power BI Dashboard 
+- <a href= "https://github.com/rohan-784/Bank_Analysis/blob/main/Power%20BI%20Dashboard%20Photos.pdf">Click Here</a>
 
-## Tableau Dashboard - <a href= "https://github.com/rohan-784/Bank_Analysis/blob/main/Tableau%20Dashboard%20Photos.pdf">Click Here</a>
+## Tableau Dashboard 
+- <a href= "https://github.com/rohan-784/Bank_Analysis/blob/main/Tableau%20Dashboard%20Photos.pdf">Click Here</a>
 
 ## Project Insights
 
